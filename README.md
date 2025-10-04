@@ -65,7 +65,19 @@ Water Estimate System/
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app interface here for better presentation.)*
+<img width="1913" height="943" alt="image" src="https://github.com/user-attachments/assets/e7610e68-472a-4c4d-848c-359aa9b98595" />
+
+
+
+<img width="1896" height="934" alt="image" src="https://github.com/user-attachments/assets/adb872e2-a92c-46c0-b170-9894445d3ca8" />
+
+
+
+<img width="1885" height="895" alt="image" src="https://github.com/user-attachments/assets/7cc2c6cc-d38a-4a79-a337-ff318574df5b" />
+
+
+
+<img width="1604" height="928" alt="image" src="https://github.com/user-attachments/assets/021778f0-4b4a-4626-83a6-8f43a0dbd426" />
 
 ---
 
